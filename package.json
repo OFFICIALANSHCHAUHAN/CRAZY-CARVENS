@@ -1,0 +1,16 @@
+{
+  "name": "crystal-caverns-multiplayer",
+  "version": "3.2.0",
+  "description": "50 Level Real-Time Online Multiplayer Platformer with Secret Admin Engine",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
